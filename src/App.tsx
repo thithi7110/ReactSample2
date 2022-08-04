@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <h1>Redux Learn6</h1>
+      <h1>Redux Learn6_2</h1>
     </div>
   );
 }
